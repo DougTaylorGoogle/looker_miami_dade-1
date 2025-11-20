@@ -105,6 +105,4 @@ explore: staff_capacity {
   # NOTE: Since staffing.AvgGrowthIndex already exists, you don't need to join performance and calculate the average here,
   # making this Explore very efficient for the Instructional Capacity KPI.
 }
-apps-fileview.texmex_20251113.00_p0
-model_lkml.txt
-Displaying model_lkml.txt.
+
